@@ -24,8 +24,7 @@ jobs:
           git zip unzip openjdk-17-jdk \
           python3-pip autoconf libtool pkg-config \
           zlib1g-dev libncurses5-dev libncursesw5-dev \
-          cmake libffi-dev libssl-dev \
-          libltdl-dev
+          cmake libffi-dev libssl-dev libltdl-dev
 
     - name: Install Buildozer & Cython
       run: |
@@ -33,19 +32,17 @@ jobs:
         pip install --user Cython==0.29.36 buildozer
         echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-    # ===== PHẦN QUAN TRỌNG NHẤT =====
-    - name: Setup Android SDK
-      uses: android-actions/setup-android@v3
-      with:
-        packages: 'tools platform-tools build-tools;34.0.0 platforms;android-34'
-
-    - name: Accept Android SDK licenses
+    - name: Enable auto-accept Android licenses
       run: |
-        yes | sdkmanager --licenses > /dev/null || true
+        # Tự động bật android.accept_sdk_license = True
+        if grep -q "android.accept_sdk_license" buildozer.spec; then
+          sed -i 's/.*android.accept_sdk_license.*/android.accept_sdk_license = True/' buildozer.spec
+        else
+          echo "android.accept_sdk_license = True" >> buildozer.spec
+        fi
 
     - name: Build APK with Buildozer
-      run: |
-        buildozer -v android debug
+      run: buildozer -v android debug
 
     - name: Upload APK artifact
       uses: actions/upload-artifact@v4
