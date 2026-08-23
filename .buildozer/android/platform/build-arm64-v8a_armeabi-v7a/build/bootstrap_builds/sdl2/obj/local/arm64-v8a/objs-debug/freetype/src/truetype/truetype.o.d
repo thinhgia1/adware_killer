@@ -1,0 +1,132 @@
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/obj/local/arm64-v8a/objs-debug/freetype/./src/truetype/truetype.o: \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/truetype.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttdriver.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdebug.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/ft2build.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftheader.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftconfig.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftoption.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftstdlib.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/integer-types.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/public-macros.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/mac-support.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/freetype.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttypes.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsystem.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftimage.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrors.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmoderr.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrdef.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/compiler-macros.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftstream.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftobjs.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftrender.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmodapi.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftglyph.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsizes.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlcdfil.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftparams.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmemory.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftgloadr.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdrv.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/autohint.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftserv.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftcalc.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftincrem.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/sfnt.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/tttypes.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttables.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftcolor.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmm.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/t1tables.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/wofftypes.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svfntfmt.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svmm.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmmtypes.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svmetric.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svtteng.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svttglyf.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svprop.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftdriver.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttdriver.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgload.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttobjs.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttinterp.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttpload.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgxvar.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/tterrors.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgload.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttags.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftoutln.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlist.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgxvar.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ttnameid.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttinterp.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttrigon.h \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttobjs.c \
+  /home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttpload.c
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttdriver.c:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdebug.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/ft2build.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftheader.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftconfig.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftoption.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/ftstdlib.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/integer-types.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/public-macros.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/config/mac-support.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/freetype.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttypes.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsystem.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftimage.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrors.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmoderr.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fterrdef.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/compiler-macros.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftstream.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftobjs.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftrender.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmodapi.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftglyph.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftsizes.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlcdfil.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftparams.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmemory.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftgloadr.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftdrv.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/autohint.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftserv.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftcalc.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftincrem.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/sfnt.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/tttypes.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttables.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftcolor.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftmm.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/t1tables.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/wofftypes.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svfntfmt.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svmm.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/ftmmtypes.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svmetric.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svtteng.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svttglyf.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/internal/services/svprop.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftdriver.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttdriver.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgload.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttobjs.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttinterp.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttpload.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgxvar.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/tterrors.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgload.c:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/tttags.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftoutln.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ftlist.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttgxvar.c:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/ttnameid.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttinterp.c:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/include/freetype/fttrigon.h:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttobjs.c:
+/home/gia82/adware_killer/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL2_ttf/external/freetype/./src/truetype/ttpload.c:
