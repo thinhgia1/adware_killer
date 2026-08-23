@@ -108,15 +108,9 @@ android.permissions = PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES
 # (list) features (adds uses-feature -tags to manifest)
 #android.features = android.hardware.usb.host
 
-# (int) Target Android API, should be as high as possible.
+
 android.api = 33
-
-# (int) Minimum API your APK / AAB will support.
-android.minapi = 21
-
-# (int) Android SDK version to use
-android.sdk = 33
-
+android.min_api = 21
 android.build_tools_version = 33.0.2
 
 # (str) Android NDK version to use
