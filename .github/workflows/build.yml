@@ -3,7 +3,7 @@ name: CI Build APK
 on:
   push:
     branches: [ "main" ]
-  workflow_dispatch:   # Cho phép bấm chạy thủ công
+  workflow_dispatch:
 
 jobs:
   build:
@@ -34,28 +34,22 @@ jobs:
         pip install --user Cython==0.29.36 buildozer
         echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-    - name: Configure buildozer.spec (auto accept license + log)
+    - name: Force stable settings in buildozer.spec
       run: |
-        # Bật tự động chấp nhận license
-        if grep -q "android.accept_sdk_license" buildozer.spec; then
-          sed -i 's/.*android.accept_sdk_license.*/android.accept_sdk_license = True/' buildozer.spec
-        else
-          echo "android.accept_sdk_license = True" >> buildozer.spec
-        fi
+        # Ép Python + Kivy ổn định
+        sed -i 's/^requirements =.*/requirements = python3==3.11.9,kivy==2.3.0,pyjnius/' buildozer.spec || true
+        
+        # Các cấu hình quan trọng
+        for key in "android.accept_sdk_license = True" "log_level = 2" "android.ndk = 25b" "android.api = 34" "android.minapi = 24" "android.build_tools_version = 34.0.0"; do
+          key_name=$(echo $key | cut -d= -f1 | xargs)
+          if grep -q "^$key_name" buildozer.spec; then
+            sed -i "s|^$key_name.*|$key|" buildozer.spec
+          else
+            echo "$key" >> buildozer.spec
+          fi
+        done
 
-        # Bật log chi tiết
-        if grep -q "log_level" buildozer.spec; then
-          sed -i 's/.*log_level.*/log_level = 2/' buildozer.spec
-        else
-          echo "log_level = 2" >> buildozer.spec
-        fi
-
-        # Pin build-tools ổn định (tránh bản 37 quá mới)
-        if ! grep -q "android.build_tools_version" buildozer.spec; then
-          echo "android.build_tools_version = 34.0.0" >> buildozer.spec
-        fi
-
-    - name: Clean previous build (khuyến nghị)
+    - name: Clean previous build
       run: |
         buildozer android clean || true
         rm -rf .buildozer
