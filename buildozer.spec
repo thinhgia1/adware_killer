@@ -36,6 +36,9 @@ android.min_api = 21
 # (str) Android build tools version to use
 android.build_tools_version = 30.0.3
 
+# Tự động đồng ý cấp phép SDK để tránh lỗi thiếu Aidl
+android.accept_sdk_license = True
+
 # Kiến trúc chip hỗ trợ
 android.archs = arm64-v8a, armeabi-v7a
 
