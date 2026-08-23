@@ -13,7 +13,7 @@ package.domain = org.thinh
 source.include_exts = py,png,jpg,kv,atlas
 
 # Các thư viện Python cần thiết
-requirements = python3,kivy,pyjnius
+requirements = python3,kivy,jnius
 
 # Phiên bản ứng dụng
 version = 0.1
