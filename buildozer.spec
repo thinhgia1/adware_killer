@@ -27,17 +27,14 @@ orientation = portrait
 # Quyền truy cập Android
 android.permissions = INTERNET
 
-# (int) Target Android API
-android.api = 31
+# Cấu hình API chuẩn ổn định cho Python-for-Android
+android.api = 33
 
 # (int) Minimum API your APK will support
 android.min_api = 21
 
-# (str) Android build tools version to use
-android.build_tools_version = 30.0.3
-
-# Tự động đồng ý cấp phép SDK để tránh lỗi thiếu Aidl
-android.accept_sdk_license = True
+# Bật log chi tiết mức 2 để dễ dàng debug nếu gặp lỗi
+log_level = 2
 
 # Kiến trúc chip hỗ trợ
 android.archs = arm64-v8a, armeabi-v7a
