@@ -40,3 +40,4 @@ log_level = 2
 android.archs = arm64-v8a, armeabi-v7a
 
 android.skip_target_api_compatibility_check = True
+android.accept_sdk_license = True
