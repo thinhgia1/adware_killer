@@ -24,17 +24,11 @@ jobs:
         pip install --upgrade pip
         pip install --user Cython==0.29.36 buildozer
 
-    - name: Accept Android SDK licenses
-      run: |
-        mkdir -p $HOME/.android
-        echo '####' > $HOME/.android/repositories.cfg
-        export PATH="$HOME/.local/bin:$PATH"
-        yes | sdkmanager --licenses || true
-
     - name: Build APK with Buildozer
       run: |
         export PATH="$HOME/.local/bin:$PATH"
-        buildozer -v android debug
+        # Tự động đồng ý mọi bảng điều khoản bản quyền Android SDK khi Buildozer chạy
+        yes | buildozer -v android debug || yes | buildozer -v android debug
 
     - name: Upload APK artifact
       uses: actions/upload-artifact@v4
