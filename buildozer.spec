@@ -28,10 +28,10 @@ orientation = portrait
 android.permissions = INTERNET
 
 # Cấu hình API chuẩn ổn định cho Python-for-Android
-android.api = 33
+android.api = 34
 
 # (int) Minimum API your APK will support
-android.min_api = 21
+android.min_api = 24
 
 # Bật log chi tiết mức 2 để dễ dàng debug nếu gặp lỗi
 log_level = 2
