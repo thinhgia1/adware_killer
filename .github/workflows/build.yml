@@ -3,6 +3,7 @@ name: CI Build APK
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:   # Cho phép bấm chạy thủ công
 
 jobs:
   build:
@@ -24,7 +25,8 @@ jobs:
           git zip unzip openjdk-17-jdk \
           python3-pip autoconf libtool pkg-config \
           zlib1g-dev libncurses5-dev libncursesw5-dev \
-          cmake libffi-dev libssl-dev libltdl-dev
+          cmake libffi-dev libssl-dev libltdl-dev \
+          libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev
 
     - name: Install Buildozer & Cython
       run: |
@@ -32,14 +34,31 @@ jobs:
         pip install --user Cython==0.29.36 buildozer
         echo "$HOME/.local/bin" >> $GITHUB_PATH
 
-    - name: Enable auto-accept Android licenses
+    - name: Configure buildozer.spec (auto accept license + log)
       run: |
-        # Tự động bật android.accept_sdk_license = True
+        # Bật tự động chấp nhận license
         if grep -q "android.accept_sdk_license" buildozer.spec; then
           sed -i 's/.*android.accept_sdk_license.*/android.accept_sdk_license = True/' buildozer.spec
         else
           echo "android.accept_sdk_license = True" >> buildozer.spec
         fi
+
+        # Bật log chi tiết
+        if grep -q "log_level" buildozer.spec; then
+          sed -i 's/.*log_level.*/log_level = 2/' buildozer.spec
+        else
+          echo "log_level = 2" >> buildozer.spec
+        fi
+
+        # Pin build-tools ổn định (tránh bản 37 quá mới)
+        if ! grep -q "android.build_tools_version" buildozer.spec; then
+          echo "android.build_tools_version = 34.0.0" >> buildozer.spec
+        fi
+
+    - name: Clean previous build (khuyến nghị)
+      run: |
+        buildozer android clean || true
+        rm -rf .buildozer
 
     - name: Build APK with Buildozer
       run: buildozer -v android debug
@@ -49,3 +68,4 @@ jobs:
       with:
         name: package-apk
         path: bin/*.apk
+        if-no-files-found: error
